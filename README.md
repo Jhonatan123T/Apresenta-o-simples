@@ -1,2 +1,2 @@
-# Apresenta-o-simples
-Apresentação com animação
+# Apresentação - simples
+ com animação
